@@ -1,2 +1,2 @@
 # Whatsupp_chatting_application
-Fully functional chatting application
+A Fully functional chatting application
